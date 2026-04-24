@@ -35,18 +35,24 @@ Gradient Boosting was selected as the final model because it achieved the strong
 8. Ensemble model comparison
 9. Final evaluation and limitations analysis
 
-## Installation Instructions
-
 ## Project Structure
 
 - notebooks/ → Jupyter notebook with full pipeline
-- data/ → datasets 
+- data/ → datasets (not uploaded)
 - reports/ → project report
 - requirements.txt → dependencies
+
+  
+## Installation Instructions
+
 Clone this repository:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/CS4082-Parkinsons-Detection.git
 cd CS4082-Parkinsons-Detection
+
+
+
+
 
 
