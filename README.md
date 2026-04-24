@@ -38,7 +38,7 @@ Gradient Boosting was selected as the final model because it achieved the strong
 ## Project Structure
 
 - notebooks/ → Jupyter notebook with full pipeline
-- data/ → datasets 
+- data/ → datasets (not uploaded due size/privacy)
 - reports/ → project report
 - requirements.txt → dependencies
 
